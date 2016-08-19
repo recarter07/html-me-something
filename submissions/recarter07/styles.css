@@ -1,0 +1,62 @@
+* {
+  background-color: white;
+}
+h1 {
+  font-family: cursive, Verdana;
+  font-size: 34px;
+}
+p {
+  font-family: Times;
+}
+a {
+  color: blue;
+}
+.p {
+  margin-bottom: -10px;
+}
+#first {
+  margin: 10px 200px 10px 200px;
+}
+#type{
+  margin: 10px 200px 10px 300px;
+}
+#where {
+  height: 450px;
+  width: 600px;
+  padding-left: 60px;
+}
+#recipe1 {
+  height: 400px;
+  width: 550px;
+  margin-left: auto;
+}
+#recipe2 {
+  height: 250px;
+  width: 350px;
+  margin-bottom: -10px;
+
+}
+#vine1 {
+  height: 200px;
+  width: 300px;
+  padding-left: 40px;
+}
+#vine2 {
+  height: 200px;
+  width: 300px;
+  padding-right: 40px;
+  padding-left: 40px;
+}
+.citation {
+  font-family: Times;
+  font-size: 12px;
+  font-weight: bold;
+  margin-top: -10px;
+  margin-bottom: 30px;
+}
+.bullet {
+  font-family: cursive, Verdana;
+}
+.recipe {
+  font-weight: bold;
+}
